@@ -56,6 +56,10 @@ content {
     width: 315px;
     background-color: #212936;
     border-radius: 15px;
+    cursor: pointer;
+}
+.box:hover {
+    background-color: grey;
 }
 h3 {
     margin: 0px 24px 16px 24px;
